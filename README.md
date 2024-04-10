@@ -1,16 +1,3 @@
-# cake
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Cake Home Page](https://github.com/itprojectmanagementbykzn/cake/assets/100278037/23d33e3a-6a22-4f88-badb-074c5b91cd92)
+![Uploading Cake Detail 1.png…]()
+![Cake Detail 2](https://github.com/itprojectmanagementbykzn/cake/assets/100278037/8d12b66e-ddd7-4882-9cf9-f11c356b402a)
